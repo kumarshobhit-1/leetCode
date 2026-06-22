@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kumarshobhit-1/leetCode/tree/master/0048-rotate-image) |
+| [0342-power-of-four](https://github.com/kumarshobhit-1/leetCode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,4 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kumarshobhit-1/leetCode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/kumarshobhit-1/leetCode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/kumarshobhit-1/leetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
