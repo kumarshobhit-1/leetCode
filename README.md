@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kumarshobhit-1/leetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kumarshobhit-1/leetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kumarshobhit-1/leetCode/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/kumarshobhit-1/leetCode/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kumarshobhit-1/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/kumarshobhit-1/leetCode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kumarshobhit-1/leetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/kumarshobhit-1/leetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/kumarshobhit-1/leetCode/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
