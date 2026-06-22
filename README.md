@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kumarshobhit-1/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kumarshobhit-1/leetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarshobhit-1/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kumarshobhit-1/leetCode/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/kumarshobhit-1/leetCode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0679-24-game) |
+| [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0679-24-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
