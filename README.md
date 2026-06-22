@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kumarshobhit-1/leetCode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kumarshobhit-1/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumarshobhit-1/leetCode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kumarshobhit-1/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
