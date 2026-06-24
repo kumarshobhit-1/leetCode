@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kumarshobhit-1/leetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kumarshobhit-1/leetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kumarshobhit-1/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kumarshobhit-1/leetCode/tree/master/0036-valid-sudoku) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kumarshobhit-1/leetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kumarshobhit-1/leetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kumarshobhit-1/leetCode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/kumarshobhit-1/leetCode/tree/master/0086-partition-list) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/kumarshobhit-1/leetCode/tree/master/0869-reordered-power-of-2) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kumarshobhit-1/leetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
