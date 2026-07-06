@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarshobhit-1/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/kumarshobhit-1/leetCode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Monotonic Stack
 |  |
 | ------- |
