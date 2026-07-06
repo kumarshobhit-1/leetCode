@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/kumarshobhit-1/leetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/kumarshobhit-1/leetCode/tree/master/1929-concatenation-of-array) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kumarshobhit-1/leetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kumarshobhit-1/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kumarshobhit-1/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/kumarshobhit-1/leetCode/tree/master/0704-binary-search) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kumarshobhit-1/leetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarshobhit-1/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kumarshobhit-1/leetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kumarshobhit-1/leetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/kumarshobhit-1/leetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kumarshobhit-1/leetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kumarshobhit-1/leetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
