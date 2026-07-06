@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-rearranging-fruits](https://github.com/kumarshobhit-1/leetCode/tree/master/2561-rearranging-fruits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kumarshobhit-1/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/kumarshobhit-1/leetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/kumarshobhit-1/leetCode/tree/master/1572-matrix-diagonal-sum) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/kumarshobhit-1/leetCode/tree/master/0869-reordered-power-of-2) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Greedy
 |  |
 | ------- |
