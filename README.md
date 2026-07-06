@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kumarshobhit-1/leetCode/tree/master/0704-binary-search) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarshobhit-1/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumarshobhit-1/leetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kumarshobhit-1/leetCode/tree/master/0042-trapping-rain-water) |
+| [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kumarshobhit-1/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/kumarshobhit-1/leetCode/tree/master/0498-diagonal-traverse) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarshobhit-1/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumarshobhit-1/leetCode/tree/master/0042-trapping-rain-water) |
+| [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
 ## Math
 |  |
 | ------- |
