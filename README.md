@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/kumarshobhit-1/leetCode/tree/master/1518-water-bottles) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kumarshobhit-1/leetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kumarshobhit-1/leetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/kumarshobhit-1/leetCode/tree/master/3021-alice-and-bob-playing-flower-game) |
 ## Divide and Conquer
 |  |
 | ------- |
