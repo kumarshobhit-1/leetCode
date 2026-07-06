@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kumarshobhit-1/leetCode/tree/master/1929-concatenation-of-array) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kumarshobhit-1/leetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kumarshobhit-1/leetCode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2438-range-product-queries-of-powers](https://github.com/kumarshobhit-1/leetCode/tree/master/2438-range-product-queries-of-powers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kumarshobhit-1/leetCode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/kumarshobhit-1/leetCode/tree/master/0342-power-of-four) |
+| [2438-range-product-queries-of-powers](https://github.com/kumarshobhit-1/leetCode/tree/master/2438-range-product-queries-of-powers) |
 ## Recursion
 |  |
 | ------- |
@@ -196,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kumarshobhit-1/leetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2438-range-product-queries-of-powers](https://github.com/kumarshobhit-1/leetCode/tree/master/2438-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
