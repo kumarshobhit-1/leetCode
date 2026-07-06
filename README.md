@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-range-product-queries-of-powers](https://github.com/kumarshobhit-1/leetCode/tree/master/2438-range-product-queries-of-powers) |
 | [2561-rearranging-fruits](https://github.com/kumarshobhit-1/leetCode/tree/master/2561-rearranging-fruits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kumarshobhit-1/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/kumarshobhit-1/leetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
