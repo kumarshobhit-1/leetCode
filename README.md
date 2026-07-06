@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/kumarshobhit-1/leetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kumarshobhit-1/leetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/kumarshobhit-1/leetCode/tree/master/3021-alice-and-bob-playing-flower-game) |
+| [3100-water-bottles-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3100-water-bottles-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/kumarshobhit-1/leetCode/tree/master/0498-diagonal-traverse) |
 | [1518-water-bottles](https://github.com/kumarshobhit-1/leetCode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/kumarshobhit-1/leetCode/tree/master/1929-concatenation-of-array) |
+| [3100-water-bottles-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3100-water-bottles-ii) |
 ## Backtracking
 |  |
 | ------- |
