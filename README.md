@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/kumarshobhit-1/leetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2438-range-product-queries-of-powers](https://github.com/kumarshobhit-1/leetCode/tree/master/2438-range-product-queries-of-powers) |
 | [2561-rearranging-fruits](https://github.com/kumarshobhit-1/leetCode/tree/master/2561-rearranging-fruits) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/kumarshobhit-1/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kumarshobhit-1/leetCode/tree/master/0056-merge-intervals) |
 | [0869-reordered-power-of-2](https://github.com/kumarshobhit-1/leetCode/tree/master/0869-reordered-power-of-2) |
 | [2561-rearranging-fruits](https://github.com/kumarshobhit-1/leetCode/tree/master/2561-rearranging-fruits) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/kumarshobhit-1/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## String
 |  |
 | ------- |
