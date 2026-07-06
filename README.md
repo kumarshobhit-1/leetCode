@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/kumarshobhit-1/leetCode/tree/master/0704-binary-search) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarshobhit-1/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarshobhit-1/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarshobhit-1/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarshobhit-1/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Probability and Statistics
 |  |
 | ------- |
