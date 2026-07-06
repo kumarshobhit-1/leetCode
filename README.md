@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-sort-matrix-by-diagonals](https://github.com/kumarshobhit-1/leetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3453-separate-squares-i](https://github.com/kumarshobhit-1/leetCode/tree/master/3453-separate-squares-i) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/kumarshobhit-1/leetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kumarshobhit-1/leetCode/tree/master/0704-binary-search) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kumarshobhit-1/leetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3453-separate-squares-i](https://github.com/kumarshobhit-1/leetCode/tree/master/3453-separate-squares-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/kumarshobhit-1/leetCode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/kumarshobhit-1/leetCode/tree/master/1929-concatenation-of-array) |
 | [3100-water-bottles-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3100-water-bottles-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -228,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/kumarshobhit-1/leetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
