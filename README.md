@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/kumarshobhit-1/leetCode/tree/master/3453-separate-squares-i) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/kumarshobhit-1/leetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/kumarshobhit-1/leetCode/tree/master/3479-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kumarshobhit-1/leetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3453-separate-squares-i](https://github.com/kumarshobhit-1/leetCode/tree/master/3453-separate-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/kumarshobhit-1/leetCode/tree/master/3479-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,8 +237,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/kumarshobhit-1/leetCode/tree/master/3479-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/kumarshobhit-1/leetCode/tree/master/3479-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
