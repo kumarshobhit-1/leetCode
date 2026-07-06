@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0679-24-game) |
 | [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
 | [0869-reordered-power-of-2](https://github.com/kumarshobhit-1/leetCode/tree/master/0869-reordered-power-of-2) |
+| [2769-find-the-maximum-achievable-number](https://github.com/kumarshobhit-1/leetCode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Divide and Conquer
 |  |
 | ------- |
