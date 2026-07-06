@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/kumarshobhit-1/leetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/kumarshobhit-1/leetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3446-sort-matrix-by-diagonals](https://github.com/kumarshobhit-1/leetCode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/kumarshobhit-1/leetCode/tree/master/0869-reordered-power-of-2) |
 | [2561-rearranging-fruits](https://github.com/kumarshobhit-1/leetCode/tree/master/2561-rearranging-fruits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kumarshobhit-1/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3446-sort-matrix-by-diagonals](https://github.com/kumarshobhit-1/leetCode/tree/master/3446-sort-matrix-by-diagonals) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/kumarshobhit-1/leetCode/tree/master/1572-matrix-diagonal-sum) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/kumarshobhit-1/leetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3446-sort-matrix-by-diagonals](https://github.com/kumarshobhit-1/leetCode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
