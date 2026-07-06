@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
 | [0869-reordered-power-of-2](https://github.com/kumarshobhit-1/leetCode/tree/master/0869-reordered-power-of-2) |
 | [1323-maximum-69-number](https://github.com/kumarshobhit-1/leetCode/tree/master/1323-maximum-69-number) |
+| [1518-water-bottles](https://github.com/kumarshobhit-1/leetCode/tree/master/1518-water-bottles) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kumarshobhit-1/leetCode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Divide and Conquer
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/kumarshobhit-1/leetCode/tree/master/0498-diagonal-traverse) |
+| [1518-water-bottles](https://github.com/kumarshobhit-1/leetCode/tree/master/1518-water-bottles) |
 ## Backtracking
 |  |
 | ------- |
