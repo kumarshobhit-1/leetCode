@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/kumarshobhit-1/leetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3446-sort-matrix-by-diagonals](https://github.com/kumarshobhit-1/leetCode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3453-separate-squares-i](https://github.com/kumarshobhit-1/leetCode/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kumarshobhit-1/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/kumarshobhit-1/leetCode/tree/master/0704-binary-search) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kumarshobhit-1/leetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3453-separate-squares-i](https://github.com/kumarshobhit-1/leetCode/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
