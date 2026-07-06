@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/kumarshobhit-1/leetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/kumarshobhit-1/leetCode/tree/master/1929-concatenation-of-array) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kumarshobhit-1/leetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/kumarshobhit-1/leetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/kumarshobhit-1/leetCode/tree/master/0869-reordered-power-of-2) |
 | [1323-maximum-69-number](https://github.com/kumarshobhit-1/leetCode/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/kumarshobhit-1/leetCode/tree/master/1518-water-bottles) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/kumarshobhit-1/leetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kumarshobhit-1/leetCode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Divide and Conquer
 |  |
