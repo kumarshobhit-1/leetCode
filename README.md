@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kumarshobhit-1/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/kumarshobhit-1/leetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/kumarshobhit-1/leetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/kumarshobhit-1/leetCode/tree/master/1572-matrix-diagonal-sum) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/kumarshobhit-1/leetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarshobhit-1/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/kumarshobhit-1/leetCode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/kumarshobhit-1/leetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Monotonic Stack
 |  |
 | ------- |
