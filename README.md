@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/kumarshobhit-1/leetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3446-sort-matrix-by-diagonals](https://github.com/kumarshobhit-1/leetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3453-separate-squares-i](https://github.com/kumarshobhit-1/leetCode/tree/master/3453-separate-squares-i) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/kumarshobhit-1/leetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/kumarshobhit-1/leetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3446-sort-matrix-by-diagonals](https://github.com/kumarshobhit-1/leetCode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/kumarshobhit-1/leetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/kumarshobhit-1/leetCode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/kumarshobhit-1/leetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/kumarshobhit-1/leetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kumarshobhit-1/leetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2438-range-product-queries-of-powers](https://github.com/kumarshobhit-1/leetCode/tree/master/2438-range-product-queries-of-powers) |
+## Memoization
+|  |
+| ------- |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/kumarshobhit-1/leetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
