@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kumarshobhit-1/leetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarshobhit-1/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
+| [1025-divisor-game](https://github.com/kumarshobhit-1/leetCode/tree/master/1025-divisor-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarshobhit-1/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/kumarshobhit-1/leetCode/tree/master/1504-count-submatrices-with-all-ones) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0679-24-game) |
 | [0837-new-21-game](https://github.com/kumarshobhit-1/leetCode/tree/master/0837-new-21-game) |
 | [0869-reordered-power-of-2](https://github.com/kumarshobhit-1/leetCode/tree/master/0869-reordered-power-of-2) |
+| [1025-divisor-game](https://github.com/kumarshobhit-1/leetCode/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/kumarshobhit-1/leetCode/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/kumarshobhit-1/leetCode/tree/master/1518-water-bottles) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kumarshobhit-1/leetCode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -243,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarshobhit-1/leetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/kumarshobhit-1/leetCode/tree/master/3479-fruits-into-baskets-iii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kumarshobhit-1/leetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kumarshobhit-1/leetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
