@@ -255,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/kumarshobhit-1/leetCode/tree/master/1025-divisor-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/kumarshobhit-1/leetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
